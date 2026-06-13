@@ -1,4 +1,4 @@
-# climate-equipment-satisfaction-analysis
+# Climate-equipment-satisfaction-analysis
 
 # Customer satisfaction analysis. The study of comfort during operation of climate control equipment.
  
